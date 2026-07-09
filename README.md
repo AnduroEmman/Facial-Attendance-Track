@@ -1,4 +1,4 @@
-<img width="1536" height="979" alt="JohnAndrewAvelino" src="https://github.com/user-attachments/assets/b26a011c-18be-4bf9-9ee1-636012b8090e" /># Attendance Tracking System
+<img width="1285" height="946" alt="Screenshot 2026-07-10 011107" src="https://github.com/user-attachments/assets/81b539ab-cf49-49cd-a078-a1ae26fa06aa" /># Attendance Tracking System
 ## 📖 Executive Summary
 The Attendance Tracking System is a state-of-the-art workforce management and time-tracking platform designed to optimize organizational efficiency. It provides an intuitive, data-driven environment for both employees and Human Resources (HR) personnel. By automating complex time calculations and offering dynamic administrative controls, the system ensures transparency, accuracy, and operational agility.
 ## 🌟 Core Modules
@@ -24,6 +24,5 @@ The HR Dashboard acts as the control center for the Human Resources department, 
 3.  **Accuracy**: Eliminate human error in timekeeping through automated calculations and real-time data processing.
 4.  **Accessibility**: Ensure that all critical functions are available to users at any time, from any device.
 
-<img width="1285" height="946" alt="Screenshot 2026-07-10 011107" src="https://github.com/user-attachments/assets/81b539ab-cf49-49cd-a078-a1ae26fa06aa" />
 
 ### LIVE DEMO : https://attendtrack-umber.vercel.app/login
